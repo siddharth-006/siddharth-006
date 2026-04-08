@@ -16,12 +16,13 @@ I’m currently working on data-driven dashboards using Power BI and Tableau whi
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-006&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharth-006&show_icons=true&theme=gruvbox&hide_border=true&cache_seconds=1800" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=siddharth-006&theme=gruvbox&hide_border=false" />
+  <img src="https://streak-stats.demolab.com?user=siddharth-006&theme=gruvbox&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-006&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-006&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800" />
 </p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=siddharth-006&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
