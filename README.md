@@ -19,7 +19,6 @@ I’m currently working on data-driven dashboards using Power BI and Tableau whi
   <br/>
   <img src="https://streak-stats.demolab.com?user=siddharth-006&theme=gruvbox&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth-006&layout=compact&theme=gruvbox&hide_border=true&cache_seconds=1800" />
 </p>
 
 
